@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/generic/socialMeta/locale/ar_IQ/locale.xml
+  *
+  -->
+
+<locale name="ar_IQ" full_name="العربية">
+	<message key="plugins.generic.socialMeta.name">إضافة التوصيف الاجتماعي</message>
+	<message key="plugins.generic.socialMeta.description">هذه الإضافة تضع ميزة النشرة المفتوحة Open Graph (لفيسبوك) وتوصيف علامات تويتر في صفحة المقالة.</message>
+</locale>
